@@ -1,7 +1,8 @@
-
+## GitHub Stats
 ![overview](https://raw.githubusercontent.com/zortos293/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![]()
-
+![Stats](https://raw.githubusercontent.com/zortos293/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![]()
 
 ## I’m currently learning
 
