@@ -1,10 +1,5 @@
 ## 👋 Hi there!
 Hello My name is Emin im a fullstack Software developer. I love making projects 😉
-## GitHub Stats
-![overview](https://raw.githubusercontent.com/zortos293/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![]()
-![Stats](https://raw.githubusercontent.com/zortos293/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![]()
 
 ## I’m currently learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,laravel)](https://skillicons.dev)
