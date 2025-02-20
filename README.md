@@ -2,7 +2,7 @@
 Hello My name is Emin im a fullstack Software developer. I love making projects 😉
 
 ## I’m currently learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go)](https://skillicons.dev)
 <!--
 **zortos293/zortos293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
